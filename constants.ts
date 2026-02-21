@@ -1,0 +1,50 @@
+
+export const PRESETS = {
+  profile: [
+    "https://placehold.co/400x400/png?text=Profile+1",
+    "https://placehold.co/400x400/png?text=Profile+2",
+    "https://placehold.co/400x400/png?text=Profile+3",
+    "https://placehold.co/400x400/png?text=Profile+4",
+    "https://placehold.co/400x400/png?text=Profile+5",
+    "https://placehold.co/400x400/png?text=Profile+6",
+    "https://placehold.co/400x400/png?text=Profile+7",
+  ],
+  upperBody: [
+    "https://placehold.co/400x600/png?text=Upper+1",
+    "https://placehold.co/400x600/png?text=Upper+2",
+    "https://placehold.co/400x600/png?text=Upper+3",
+    "https://placehold.co/400x600/png?text=Upper+4",
+    "https://placehold.co/400x600/png?text=Upper+5",
+    "https://placehold.co/400x600/png?text=Upper+6",
+    "https://placehold.co/400x600/png?text=Upper+7",
+  ],
+  lowerBody: [
+    "https://placehold.co/400x600/png?text=Lower+1",
+    "https://placehold.co/400x600/png?text=Lower+2",
+    "https://placehold.co/400x600/png?text=Lower+3",
+    "https://placehold.co/400x600/png?text=Lower+4",
+    "https://placehold.co/400x600/png?text=Lower+5",
+    "https://placehold.co/400x600/png?text=Lower+6",
+  ],
+  footwear: [
+    "https://placehold.co/400x400/png?text=Shoes+1",
+    "https://placehold.co/400x400/png?text=Shoes+2",
+    "https://placehold.co/400x400/png?text=Shoes+3",
+    "https://placehold.co/400x400/png?text=Shoes+4",
+    "https://placehold.co/400x400/png?text=Shoes+5",
+    "https://placehold.co/400x400/png?text=Shoes+6",
+  ],
+  headwear: [
+    "https://placehold.co/400x400/png?text=Headwear+1",
+    "https://placehold.co/400x400/png?text=Headwear+2",
+    "https://placehold.co/400x400/png?text=Headwear+3",
+  ],
+  accessories: [
+    "https://placehold.co/400x400/png?text=Bag+1",
+    "https://placehold.co/400x400/png?text=Bag+2",
+    "https://placehold.co/400x400/png?text=Bag+3",
+    "https://placehold.co/400x400/png?text=Bag+4",
+    "https://placehold.co/400x400/png?text=Bag+5",
+    "https://placehold.co/400x400/png?text=Bag+6",
+  ],
+};

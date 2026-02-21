@@ -1,0 +1,5 @@
+{
+  "name": "AI Outfit Try-On",
+  "description": "A photorealistic AI outfit renderer that combines user profile photos with clothing items to generate virtual try-on images.",
+  "requestFramePermissions": []
+}
